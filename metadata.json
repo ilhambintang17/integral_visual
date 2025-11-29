@@ -1,0 +1,5 @@
+{
+  "name": "Riemann Sums & FTC Visualizer",
+  "description": "An interactive educational tool visualizing the Area as an Integral (Riemann Sums) and its connection to the Fundamental Theorem of Calculus.",
+  "requestFramePermissions": []
+}
